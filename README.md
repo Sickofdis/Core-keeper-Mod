@@ -15,9 +15,7 @@ This internal has the following features:
 
 2 - Launch Core Keeper
 
-3 - Inject the dll
-
-I didn't make an injector for the dll but you can use Process Hacker to inject it.
+3 - Run DLLInjector.exe
 
 You can enable and disable the mods by clicking the keys again. (By default they are disabled)
 
