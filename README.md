@@ -21,9 +21,8 @@ You can enable and disable the mods by clicking the keys again. (By default they
 
 ## To do
 
-I will make an injector in the near future. 
-
 Maybe i will add more options.
 
+This project is not updated anymore, but feel free to use this base and update the addresses!
 
 
